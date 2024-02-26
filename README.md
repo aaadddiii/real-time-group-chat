@@ -1,1 +1,1 @@
-# Real Time group chat application using Node js
+# Real Time group chat application [Node js]
